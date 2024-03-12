@@ -8,3 +8,6 @@ In summary, after exploring and testing many different types of EDA, it can demo
 Preliminary Predictive Analytics Model:
 In this portion of my semester-long project, I developed a preliminary predictive analytics model by implementing a linear regression model as a baseline and a K-Nearest Neighbor model. Although the accuracy score is not what I hoped for, I believe it can improve significantly. I would want to work and experiment more by preparing and cleaning the data differently. Any feedback or suggestions would be greatly appreciated!
 Source used: https://www.analyticsvidhya.com/blog/2018/08/k-nearest-neighbor-introduction-regression-python/#commentModule
+
+Celebration of Student Research and Creativity - Poster:
+I designed and created a poster presentation for the Celebration of Student Research, which includes the objectives, materials and methods, results, and future work of my semester-long data analytics project.  
