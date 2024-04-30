@@ -19,3 +19,4 @@ Overall, I enjoyed working with this dataset by applying explanatory data analys
 
 Project Final Presentation
 
+I created a PowerPoint presentation for my predictive analytics semester-long project for predicting job salaries within the data industry based on project overview, explanatory data analysis (EDA), methods/modeling, preliminary results, final results, conclusion/future work, and reflection.
