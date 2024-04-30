@@ -17,6 +17,6 @@ For my semester-long project, I developed a preliminary predictive analytics mod
 
 Overall, I enjoyed working with this dataset by applying explanatory data analysis to analyze the data and performing multiple machine learning models like K-Nearest Neighbor, Random Forest, and Gradient Boosting to predict the best accuracy possible. This project was a somewhat frustrating but humbling experience. Any feedback or suggestions would be greatly appreciated! 
 
-Project Final Presentation
+Project Final Presentation:
 
 I created a PowerPoint presentation for my predictive analytics semester-long project for predicting job salaries within the data industry based on project overview, explanatory data analysis (EDA), methods/modeling, preliminary results, final results, conclusion/future work, and reflection.
