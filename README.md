@@ -11,8 +11,11 @@ Celebration of Student Research and Creativity Poster:
 
 I designed, created, and presented a poster presentation for the Celebration of Student Research & Creativity, which includes the objectives, materials and methods, results, and future work of my semester-long data analytics project.
 
-Preliminary Predictive Analytics Model:
+Predictive Analytics Model:
 
 For my semester-long project, I developed a preliminary predictive analytics model by implementing three different models, including K-Nearest Neighbor, Random Forest, and Gradient Boosting, to predict salary prediction through jobs in the data field. Although the accuracy score was not initially what I had hoped for, it improved significantly after making a few adjustments. A few specific examples included using the original dataset and returning the few columns I dropped before: ' job_title', 'salary_currency', 'salary', and 'employee_residence'. In addition, since the dataset also includes data from jobs in the data field worldwide, I also got rid of the new column I created, which was called 'country_category'. It described whether a job was either in the 'United States' or 'Non-United States', which I thought after implementing the one-hot encoding it would simplify working with the dataset and not create too many columns, but I was wrong.
 
 Overall, I enjoyed working with this dataset by applying explanatory data analysis to analyze the data and performing multiple machine learning models like K-Nearest Neighbor, Random Forest, and Gradient Boosting to predict the best accuracy possible. This project was a somewhat frustrating but humbling experience. Any feedback or suggestions would be greatly appreciated! 
+
+Project Final Presentation
+
